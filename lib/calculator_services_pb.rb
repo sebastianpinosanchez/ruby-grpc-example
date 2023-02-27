@@ -2,7 +2,7 @@
 # Source: calculator.proto for package 'calculator'
 
 require 'grpc'
-require_relative 'calculator_services_pb'
+require_relative 'calculator_pb'
 
 module Calculator
   module Calculator
